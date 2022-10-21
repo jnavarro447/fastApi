@@ -66,6 +66,6 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: jnavarro447/fastapi:latest
+          tags: jnavarro447/fast-api:latest
           
         
